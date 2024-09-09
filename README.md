@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Shubham Dubile
+- 👋 Hi, I’m Shubham
 - 👀 I’m interested in Big data
-- 📫 How to reach me theshubhamdubile@gmail.com
 
 <!---
 DataExplorer20/DataExplorer20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
